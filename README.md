@@ -27,14 +27,6 @@ My experience spans from developing multilingual AI systems for international st
 - **CI/CD pipeline** with GitHub Actions, deployed live on **AWS EC2/S3**
 - *Technologies: React, TypeScript, Python, FastAPI, AWS, OpenAI API*
 
-### 🛡️ [State-of-the-Art Face Spoof Detection](https://github.com/ZekeJin97/Spoofing-Detection)
-**Real-time deepfake detection system using multi-feature fusion**
-- **>86% accuracy** across multiple deepfake datasets (Stable Diffusion, StyleGAN)
-- **Multi-modal approach**: texture analysis, MiDaS depth estimation, ResNet facial patches
-- **12% improvement** in cross-dataset generalization through face alignment
-- **Flask web app** for live testing with interactive feedback collection
-- *Technologies: PyTorch, OpenCV, ResNet, MiDaS, Flask, Computer Vision*
-
 ### 🌍 [Multilingual AI Advisor for International Students](https://github.com/ZekeJin97/International-Advisor)
 **Full-stack RAG system for real-time college admissions advising**
 - **Real-time advising** in English, Spanish, and Mandarin using **GPT-4**
@@ -43,6 +35,21 @@ My experience spans from developing multilingual AI systems for international st
 - **Serverless-ready** with automated PDF ingestion and multilingual search
 - *Technologies: FastAPI, LangChain, FAISS, Next.js, Tailwind, GPT-4*
 
+### 🎯 [Candidate Recommendation Engine](https://github.com/ZekeJin97/ZekeJin97-Candidate_Recommendation_System)
+**AI-powered candidate matching using semantic embeddings and cosine similarity**
+- **Smart matching algorithm** with OpenAI embeddings achieving high accuracy candidate ranking
+- **Multi-format support**: PDF, DOCX, TXT with OCR fallback for scanned documents  
+- **Real-time processing** with caching optimization and interactive web interface
+- **Production deployment** on Streamlit Cloud with automated CI/CD pipeline
+- *Technologies: Python, OpenAI API, Streamlit, PyPDF2, Cosine Similarity, NLP*
+
+### 🛡️ [State-of-the-Art Face Spoof Detection](https://github.com/ZekeJin97/Spoofing-Detection)
+**Real-time deepfake detection system using multi-feature fusion**
+- **>86% accuracy** across multiple deepfake datasets (Stable Diffusion, StyleGAN)
+- **Multi-modal approach**: texture analysis, MiDaS depth estimation, ResNet facial patches
+- **12% improvement** in cross-dataset generalization through face alignment
+- **Flask web app** for live testing with interactive feedback collection
+- *Technologies: PyTorch, OpenCV, ResNet, MiDaS, Flask, Computer Vision*
 ---
 
 ## 🛠️ Technical Skills
